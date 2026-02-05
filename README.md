@@ -61,9 +61,9 @@ struct Abhishek {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="top">
+    <td valign="top" style="padding-right: 20px;">
 
 ## 🎯 What I'm Up To
 - ☁️ Building **cloud-native & secure SaaS platforms on AWS**
@@ -82,6 +82,7 @@ struct Abhishek {
     </td>
   </tr>
 </table>
+
 
 ## 🌟 Core Expertise
 - ☁️ Cloud & DevOps Engineering – **AWS, GCP, Azure, OCI, Docker, Kubernetes, Linux, Automation**
