@@ -67,10 +67,11 @@ struct Abhishek {
 
 ## 🎯 What I'm Up To
 - ☁️ Building **cloud-native & secure SaaS platforms on AWS**
-- 🤖 Designing **LLM agents, RAG pipelines & MCP-based systems**
+- 🤖 Designing **AI agents, RAG pipelines & MCP-based systems**
 - 🏗️ Architecting **scalable, cost-efficient distributed systems**
 - 🛡️ Applying **cloud security & DevSecOps best practices**
 - 🚀 Creating **automation tools & developer productivity solutions**
+- 💡 Learning **advanced system design & ethical hacking**
 
     </td>
     <td align="right">
