@@ -8,6 +8,12 @@ style="font-size: 24px; margin-top: 10px;">
   AI & DevOps Engineer | CyberSecurity & Cloud | System Architect 
 </h3>
 
+<div align="center" style="margin-top: 30px;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=🤖+Programming+is+thinking,+not+typing+-+Casey+Patton;🐞+If+debugging+is+removing+bugs,+then+programming+is+putting+them+in+-+Edsger+Dijkstra;💻+Software+and+cathedrals+are+much+the+same,+first+we+build+them,+then+we+pray;🧹+Deleted+code+is+debugged+code+-+Abhishek"
+  />
+</div>
+
 <hr style="height:2px;border:none;background-color:#eaeaea; margin-top:40px; margin-bottom:20px;" />
 
 <h1>
@@ -210,13 +216,6 @@ struct Abhishek {
   <a href="https://instagram.com/abhishekmallav" target="_blank">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light"  style="margin: 0 10px;" />
   </a>
-</div>
-
-
-<div align="center" style="margin-top: 30px;">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=🤖+Programming+is+thinking,+not+typing+-+Casey+Patton;🐞+If+debugging+is+removing+bugs,+then+programming+is+putting+them+in+-+Edsger+Dijkstra;💻+Software+and+cathedrals+are+much+the+same,+first+we+build+them,+then+we+pray;🧹+Deleted+code+is+debugged+code+-+Abhishek"
-  />
 </div>
 
 <div align="center">
