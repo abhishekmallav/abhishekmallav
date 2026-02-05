@@ -90,7 +90,6 @@ struct Abhishek {
 - 🤖 GenAI & Agentic AI – **LLMs, RAG, tool-using agents, MCP**
 - 🏗️ System Design – **Scalable architectures, microservices, reliability**
 - 🛡️ Cloud Security – **IAM, WAF, least-privilege access, secure design**
-- 🏥 HealthTech Systems – **EHR interoperability, healthcare platforms, data workflows**
 
 <hr style="height:2px;border:none;background-color:#eaeaea; margin-top:40px; margin-bottom:20px;" />
 
