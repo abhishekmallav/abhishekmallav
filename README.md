@@ -193,27 +193,24 @@ struct Abhishek {
   🎓 <b>Mentoring & knowledge sharing</b>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 14px; margin-top: 40px;">
+<div align="center">
   <a href="https://abhishekmallav.github.io/portfolio/" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=zen&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=zen&theme=light"  style="margin: 0 10px;" />
   </a>
-
   <a href="https://www.linkedin.com/in/abhishekmallav" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light"  style="margin: 0 10px;" />
   </a>
-
   <a href="mailto:abhimallav1439@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light"  style="margin: 0 10px;" />
   </a>
-
   <a href="https://twitter.com/abhishekmallav" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=light"  style="margin: 0 10px;" />
   </a>
-
   <a href="https://instagram.com/abhishekmallav" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light"  style="margin: 0 10px;" />
   </a>
 </div>
+
 
 <div align="center" style="margin-top: 30px;">
   <img
