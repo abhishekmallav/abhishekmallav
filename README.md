@@ -179,8 +179,10 @@ struct Abhishek {
 </h1>
 
 <div align="center">
-  <h3>💬 Let’s Build Scalable, Secure Systems Together<br>
-  I’m open to collaborating on:</h3>
+  <h3>
+    💬 Let’s Build Scalable, Secure Systems Together<br>
+    I’m open to collaborating on:
+  </h3>
 
   ☁️ <b>Cloud-native & multi-cloud architectures (AWS, Azure, GCP, OCI)</b><br>
   🏗️ <b>Scalable distributed systems & microservices</b><br>
@@ -190,47 +192,36 @@ struct Abhishek {
   💼 <b>Freelance opportunities</b><br>
   🎓 <b>Mentoring & knowledge sharing</b>
 </div>
-  
-<div align="center" style="display: flex; justify-content: center; gap: 12px;margin-top:40px; margin-bottom:0px;">
-  <div>
-    <a href="https://abhishekmallav.github.io/portfolio/" target="_blank">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=zen&theme=light" />
-    </a>
-  </div>
 
-  <div>
-    <a href="https://www.linkedin.com/in/abhishekmallav" target="_blank">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light" />
-    </a>
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 14px; margin-top: 40px;">
+  <a href="https://abhishekmallav.github.io/portfolio/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=zen&theme=light" />
+  </a>
 
-  <div>
-    <a href="mailto:abhimallav1439@gmail.com">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light" />
-    </a>
-  </div>
+  <a href="https://www.linkedin.com/in/abhishekmallav" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=light" />
+  </a>
 
-  <div>
-    <a href="https://twitter.com/abhishekmallav" target="_blank">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=light" />
-    </a>
-  </div>
+  <a href="mailto:abhimallav1439@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=light" />
+  </a>
 
-  <div>
-    <a href="https://instagram.com/abhishekmallav" target="_blank">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light" />
-    </a>
-  </div>
+  <a href="https://twitter.com/abhishekmallav" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=light" />
+  </a>
+
+  <a href="https://instagram.com/abhishekmallav" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=light" />
+  </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 30px;">
   <img
-    style="vertical-align: middle; position: relative; top: 10px;"
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=3000&color=FFFFFF&center=true&vCenter=true&width=900&lines=
-🤖+Programming+is+thinking,+not+typing+-+Casey+Patton;
-🐞+If+debugging+is+removing+bugs,+then+programming+is+putting+them+in+-+Edsger+Dijkstra;
-💻+Software+and+cathedrals+are+much+the+same, first+we+build+them,+then+we+pray;
-🧹+Deleted+code+is+debugged+code+-+Abhishek"
+    🤖+Programming+is+thinking,+not+typing+-+Casey+Patton;
+    🐞+If+debugging+is+removing+bugs,+then+programming+is+putting+them+in+-+Edsger+Dijkstra;
+    💻+Software+and+cathedrals+are+much+the+same,+first+we+build+them,+then+we+pray;
+    🧹+Deleted+code+is+debugged+code+-+Abhishek"
   />
 </div>
 
