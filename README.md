@@ -238,26 +238,28 @@ class Abhishek:
 
 <div align="center">
   <h3>
-    💬 Let’s Build Scalable, Secure Systems Together<br />
+    Let’s Build Scalable, Secure Systems Together<br />
     I’m open to collaborating on:
   </h3>
 
-  <div style="display: flex; justify-content: center; text-align: left;">
-
-    ☁️ Cloud-native & multi-cloud architectures
-    🏗️ Scalable distributed systems & microservices
-    🔐 DevSecOps, cloud security & secure system design
-    🤖 Agentic AI & Generative AI systems
-    🌐 Open-source tools & developer automation
-    💼 Freelance opportunities
-    🎓 Mentoring & knowledge sharing
-
-  </div>
+  <table align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px 24px;">
+  <tr>
+    <td align="left">
+      🔐 DevSecOps, cloud security & secure system design<br />
+      🏗️ Scalable distributed systems & microservices<br />
+      🌐 Open-source tools & developer automation<br />
+      ☁️ Cloud-native & multi-cloud architectures<br />
+      🤖 Agentic AI & Generative AI systems<br />
+      🎓 Mentoring & knowledge sharing<br />
+      💼 Freelance opportunities<br />
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://abhishekmallav.github.io/portfolio/" target="_blank">
-    <img src="https://shieldcn.dev/badge/Portfolio-000000.svg?logo=safari&logoColor=white" height="28" style="margin: 0 5px;" alt="Portfolio" />
+    <img src="https://shieldcn.dev/badge/Portfolio-676767.svg?logo=safari&logoColor=white" height="28" style="margin: 0 5px;" alt="Portfolio" />
   </a>
   <a href="mailto:abhimallav1439@gmail.com">
     <img src="https://shieldcn.dev/badge/Email-D14836.svg?logo=gmail&logoColor=white" height="28" style="margin: 0 5px;" alt="Email" />
