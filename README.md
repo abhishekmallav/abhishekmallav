@@ -221,9 +221,9 @@ class Abhishek:
   <img src="https://raw.githubusercontent.com/abhishekmallav/abhishekmallav/output/github-contribution-grid-snake.svg" />
 </p>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<!-- <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmallav&theme=github-compact" />
-</div>
+</div> -->
 
 ---
 
