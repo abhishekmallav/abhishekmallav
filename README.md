@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center" style="font-size: 24px; margin-top: 10px;">
-  Agentic Engineer | AI & DevOps | CyberSecurity & Cloud | System Design 
+  Agentic Engineer | AI & Security | DevOps & Cloud | System Design 
 </h3>
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
