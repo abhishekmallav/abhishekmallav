@@ -26,29 +26,31 @@
 ```python
 class Abhishek:
     domains: list[str] = [
+        "Agentic Systems"
         "Cloud & DevOps",
         "Distributed Systems",
-        "Cybersecurity & Ethical Hacking",
-        "Agentic AI"
+        "Cybersecurity & Ethical Hacking"
     ]
     building: list[str] = [
-        "Cloud-based SaaS Infrastructure (AWS/GCP/Azure/OCI)",
+        "Agentic Tools"
         "AI Agents & MCP Systems",
-        "Automation & Developer Tooling"
+        "Automation & Developer/Productivity Tools"
+        "Cloud-based SaaS Infrastructure (AWS/GCP/Azure/OCI)",
     ]
     learning: list[str] = [
+        "Agentic Automation",
         "Advanced System Design",
-        "MLOps & AI Infrastructure",
         "DevSecOps & Cloud Security",
         "Cybersecurity & Ethical Hacking"
     ]
     skills: list[str] = [
+        "Agentic AI",
+        "Networking",
         "Cloud Architecture",
         "DevOps & Automation",
-        "AI Agents",
-        "Linux & Systems"
+        "Linux & System Administration"
     ]
-    fun_fact: str = "I love turning complex systems into simple, scalable solutions 🚀"
+    "Curious by Nature, Engineer by Craft"
 ```
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -245,13 +247,15 @@ class Abhishek:
   <table align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 16px 24px;">
   <tr>
     <td align="left">
-      🔐 DevSecOps, cloud security & secure system design<br />
-      🏗️ Scalable distributed systems & microservices<br />
-      🌐 Open-source tools & developer automation<br />
-      ☁️ Cloud-native & multi-cloud architectures<br />
-      🤖 Agentic AI & Generative AI systems<br />
-      🎓 Mentoring & knowledge sharing<br />
-      💼 Freelance opportunities<br />
+      ⚡ Agentic Automation<br />
+      🤖 Agentic AI & Gen AI Systems<br />
+      🔒 AI Security & Secure System Design<br />
+      🏗️ Scalable Distributed Systems & Microservices<br />
+      🌐 Open-source, Automation & Developer/Productivity Tools<br />
+      ☁️ Cloud-Native & Multi-Cloud Architectures<br />
+      🔐 DevSecOps & Cloud Security<br />
+      🎓 Mentoring & Knowledge Sharing<br />
+      💼 Freelance Opportunities<br />
     </td>
   </tr>
 </table>
