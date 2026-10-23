@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center" style="font-size: 24px; margin-top: 10px;">
-  AI & Security, DevOps & Cloud | Building Agentic Systems & Automations | System Design 
+  Building Agentic Systems & Automations | AI & Security | DevOps & Cloud 
 </h3>
 
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
