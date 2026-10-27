@@ -95,7 +95,7 @@ class Abhishek:
     width="25"
     style="vertical-align: middle; position: relative; top: -2px;"
   />
-  Tech Stack
+  Tech Arsenal
 </h1>
 
 ### 👨‍💻 Languages & Frameworks
