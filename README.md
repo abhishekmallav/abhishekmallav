@@ -65,6 +65,7 @@
 ### CyberSecurity
 
 <p>
+  <img src="https://shieldcn.dev/badge/Kali-Linux-abcde3.svg?logo=kalilinux&logoColor=ffffff&color=557C94&labelOpacity=1&statusDot=true" height="28" alt="KaliLinux" />
   <img src="https://shieldcn.dev/badge/Wireshark-1679A7.svg?logo=wireshark&logoColor=FFFFFF&valueColor=FFFFFF&labelTextColor=FFFFFF" height="28" alt="Wireshark" />
   <img src="https://shieldcn.dev/badge/Nmap-214478.svg?logo=false&logoColor=FFFFFF&valueColor=FFFFFF&labelTextColor=FFFFFF" height="28" alt="Nmap" />
   <img src="https://shieldcn.dev/badge/Burp%20Suite-FF6633.svg?logo=burpsuite&logoColor=000000&valueColor=000000&labelTextColor=000000" height="28" alt="Burp Suite" />
